@@ -1,18 +1,28 @@
-# React + Vite
+# IELTS Pro - Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive homepage for a fictional IELTS Institute built with **React JS**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Responsive Navbar with logo & links  
+- Hero section with headline, sub-text, CTA button, and banner image  
+- Feature cards (Speaking Practice, Mock Tests, AI Band Score, Expert Mentors)  
+- Student Testimonials section  
+- Footer with quick links & contact info  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React JS  
+- CSS (custom)  
 
-## React Compiler
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ▶️ Run Locally
+```bash
+# clone repo
+git clone https://github.com/your-username/ielts-pro-homepage.git
+cd ielts-pro-homepage
 
-Note: This will impact Vite dev & build performances.
+# install dependencies
+npm install
 
-## Expanding the ESLint configuration
+# start dev server
+npm start
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
